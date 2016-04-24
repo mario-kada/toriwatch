@@ -1,0 +1,50 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "pxpxpx82@gmail.com",
+    "enableMultiJS": true,
+    "longName": "toriwatch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/nitatori_s.png",
+                "name": "TORIS",
+                "targetPlatforms": [
+                    "aplite",
+                    "basalt"
+                ],
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tori.png",
+                "menuIcon": true,
+                "name": "MINITORI",
+                "targetPlatforms": null,
+                "type": "bitmap"
+            },
+            {
+                "file": "images/niwatiri.png",
+                "name": "TORI",
+                "targetPlatforms": [
+                    "chalk"
+                ],
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "torich",
+    "targetPlatforms": [
+        "aplite",
+        "basalt",
+        "chalk"
+    ],
+    "uuid": "13dedff9-3bde-40c1-b440-c287373f6a64",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
